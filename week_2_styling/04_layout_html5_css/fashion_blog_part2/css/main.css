@@ -1,0 +1,149 @@
+body {
+	font-family:Lato;
+	font-weight:300;
+	font-size: 12pt;
+	padding:50px;
+	border-left: 8px solid #DDD;
+	margin: 0;
+}
+
+.right {
+	width:20%;
+	position:relative;
+	float:right;
+	display: inline-block;
+}
+
+.left {
+	width:75%;
+	position:relative;
+	float:left;
+	display: inline-block;
+}
+
+}
+
+article {
+	font-size: 13pt;
+	letter-spacing: 0.05em;
+	word-spacing: 0.1em;
+	line-height: 20pt;
+	margin-bottom: 70px;}
+
+a {
+	color: #D00;
+	text-decoration: none;
+}
+
+header nav a {
+	color: #EEE;
+	font-size: 16pt;
+	padding: 15pt 40pt;
+	margin: 0px -1px;
+	display:inline-block;
+	background-color:#000;
+
+}
+h1{
+	font-size: 40pt;
+	font-weight: 300;
+	margin-right: 20px;
+	display:inline;
+	
+}
+
+h2 {
+	color: #DDD;
+	font-size: 20pt;
+	font-weight: 300;
+	margin:0px 0px;
+	display:inline;
+
+
+}
+
+h2 a {
+	font-size: 24pt;
+	color: rgb(0,0,0);
+	margin: 0px;
+
+}
+
+.faside {
+	margin-top: 0px;
+	font-size: 14pt;
+}
+
+h3 {
+	color: #CCC;
+	font-size: 26pt;
+	font-weight: 300;
+	margin-top: 70px;
+	margin-bottom: 20px;
+}
+
+h4 {
+	margin:0;
+	float:right;
+
+}
+
+.dropcap {
+
+	font-size: 80pt;
+	color: #DDD;
+	line-height: 80px;
+	float:left;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	margin: 0px;
+}
+
+footer nav a {
+	color:#D00;
+}
+
+div.class:right nav a {
+	color:#D00;
+}
+
+
+.aside {
+	color:#bbb;
+	font-size:14pt;
+	margin-top: 165px;
+	margin-bottom: 0px;
+}
+
+
+
+
+footer nav {
+	margin-top: 60px;
+	margin-bottom: 30px;
+}
+
+footer p {
+	color:#DDD;
+	font-size: 14pt;
+}
+
+a:hover{ 
+	color:#A00;
+
+}
+
+hr {
+	border: 1px solid #DDD;
+	clear: both;
+	margin-bottom: 15px;
+	margin-top:15px;
+}
+
+img {
+	width:850px;
+}
+
+.imgright{
+	width:200px;
+}
